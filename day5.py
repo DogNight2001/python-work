@@ -58,15 +58,15 @@
 
 
 
-def func(val):
-    countt=1
+# def func(val):
+#     countt=1
     
-    for i in range(len(val)-1):
-        if ord(val[i])+1==ord(val[i+1]):
-            countt +=1
+#     for i in range(len(val)-1):
+#         if ord(val[i])+1==ord(val[i+1]):
+#             countt +=1
        
-    return countt
-print(func('aaabcder'))            
+#     return countt
+# print(func('aaabcder'))            
    
 
 

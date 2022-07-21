@@ -1,0 +1,3 @@
+Pywhatkit is a Python library used for different purposes and one of those is sending WhatsApp messages.
+
+This is an easy-to-use library that doesn’t need any additional setup
